@@ -26,7 +26,7 @@ app.get('/',function(req,res){
 				+'	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8"/>'
 				+'	</head>'
 				+'	<body>'
-				+	'<h1>Bem vindo Cloud Ninja</h1>'
+				+	'<h1>Bem vindo</h1>'
 				+'	</body>'
 			    +'</html>';
 
